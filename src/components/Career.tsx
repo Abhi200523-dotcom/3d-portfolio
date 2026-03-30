@@ -15,58 +15,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Software Engineering Intern</h4>
+                <h5>Enatel · Christchurch, Canterbury</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Nov 2025–Feb 2026</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
-              </div>
-              <h3>2017–24</h3>
-            </div>
-            <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
-              </div>
-              <h3>2016–17</h3>
-            </div>
-            <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Built a deep understanding of AWS cloud services through completing AWS Cloud Practitioner Essentials and QuickSuite training. Designed and developed interactive prototype dashboards in Amazon Quick Suite for battery and charger performance, using mock and live datasets from Athena and Redshift. Conducted research to identify meaningful performance metrics and key indicators to display on dashboards, ensuring analytical relevance and business value. Tackled complex data engineering challenges. Created systematic fixes by engaging directly with senior engineers and AWS Support to resolve platform constraints. Produced dashboard concepts, each with distinct layouts and analytical narratives, and documented all metric logic in a technical design file outlining calculations, assumptions, and customer value. Collaborated closely with senior engineers from Enatel and Amazon to define the structure for the final analytical dashboard. Automated deployment of Quick Suite data sources, datasets, analyses, and dashboards using AWS CloudFormation. Built reusable templates that allow deterministic replication of analytical resources across environments. Communicated technical concepts to non technical stakeholders. Regularly collaborated with engineers, product teams, and leadership, presented analytical findings and explaining technical decisions in a clear and accessible way. Presented the final outcomes and insights to senior leadership, influencing the direction of the final product.
             </p>
           </div>
         </div>
